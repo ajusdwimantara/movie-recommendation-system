@@ -27,7 +27,7 @@ docker compose up --build
 
 open on browser:
 ```bash
-localhost:8000
+http://localhost:8000/docs
 ```
 
 ## Endpoints
