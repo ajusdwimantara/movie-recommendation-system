@@ -1,0 +1,261 @@
+item_id,title,content_type,genre
+i1,Crash Landing on You,series,romance
+i2,Start-Up,series,drama
+i3,Hospital Playlist,series,drama
+i4,Reply 1988,series,family
+i5,Extraordinary Attorney Woo,series,drama
+i6,Our Beloved Summer,series,romance
+i7,Hometown Cha-Cha-Cha,series,romance
+i8,It's Okay to Not Be Okay,series,drama
+i9,Move to Heaven,series,drama
+i10,Vincenzo,series,thriller
+i11,Descendants of the Sun,series,romance
+i12,Business Proposal,series,romance
+i13,The Notebook,movie,romance
+i14,Me Before You,movie,romance
+i15,La La Land,movie,romance
+i16,The Fault in Our Stars,movie,romance
+i17,Perahu Kertas,movie,romance
+i18,Ada Apa Dengan Cinta?,movie,romance
+i19,Habibie & Ainun,movie,romance
+i20,Dilan 1990,movie,romance
+i21,Dilan 1991,movie,romance
+i22,Imperfect,movie,drama
+i23,Koala Kumal,movie,romance
+i24,Cek Toko Sebelah,movie,comedy
+i25,John Wick,movie,action
+i26,Mission Impossible,movie,action
+i27,The Raid,movie,action
+i28,The Dark Knight,movie,action
+i29,Avengers: Endgame,movie,action
+i30,Avengers: Infinity War,movie,action
+i31,Captain America: Civil War,movie,action
+i32,Iron Man,movie,action
+i33,The Bourne Ultimatum,movie,thriller
+i34,Tenet,movie,thriller
+i35,Squid Game,series,thriller
+i36,Alice in Borderland,series,thriller
+i37,Money Heist,series,thriller
+i38,The Glory,series,thriller
+i39,Chernobyl,series,thriller
+i40,Gotham,series,thriller
+i41,Upin & Ipin,tv,kids
+i42,Doraemon,tv,kids
+i43,Shinchan,tv,kids
+i44,SpongeBob SquarePants,tv,kids
+i45,Toy Story,movie,family
+i46,Frozen,movie,family
+i47,Moana,movie,family
+i48,Finding Nemo,movie,family
+i49,The Incredibles,movie,family
+i50,Hotel Transylvania,movie,family
+i51,Nussa,series,kids
+i52,Adit & Sopo Jarwo,tv,kids
+i53,Stand Up Comedy Indonesia,tv,comedy
+i54,Warkop DKI Reborn,movie,comedy
+i55,My Stupid Boss,movie,comedy
+i56,Laskar Pelangi,movie,drama
+i57,Keluarga Cemara,series,family
+i58,Naruto Shippuden,series,anime
+i59,One Piece,series,anime
+i60,Attack on Titan,series,anime
+i61,Demon Slayer,series,anime
+i62,Jujutsu Kaisen,series,anime
+i63,Blue Lock,series,anime
+i64,Spy x Family,series,anime
+i65,My Hero Academia,series,anime
+i66,Dragon Ball Super,series,anime
+i67,Kisah Cinta di Kafe,microdrama,romance
+i68,Drama 5 Menit: Pulang,microdrama,drama
+i69,Di Balik Chat,microdrama,drama
+i70,Seribu Detik Terakhir,microdrama,thriller
+i71,Di Atas Ojek Online,microdrama,comedy
+i72,Kontrakan Sebelah,microdrama,comedy
+i73,Weird Roommate,microdrama,comedy
+i74,Diary Pacar Ghosting,microdrama,romance
+i75,Friendzone Story,microdrama,romance
+i76,The Bourne Ultimatum Part 3,movie,thriller
+i77,La La Land Part 4,movie,romance
+i78,Demon Slayer S3E16,series,anime
+i79,Chernobyl S2E20,series,thriller
+i80,My Hero Academia S2E10,series,anime
+i81,Jujutsu Kaisen S2E15,series,anime
+i82,SpongeBob SquarePants S1E4,tv,kids
+i83,Habibie & Ainun Part 2,movie,romance
+i84,Business Proposal S3E16,series,romance
+i85,Me Before You Part 4,movie,romance
+i86,Weird Roommate S2E18,microdrama,comedy
+i87,Finding Nemo Part 3,movie,family
+i88,Doraemon S2E11,tv,kids
+i89,Hometown Cha-Cha-Cha S2E12,series,romance
+i90,Tenet Part 2,movie,thriller
+i91,Dragon Ball Super S2E14,series,anime
+i92,Crash Landing on You S2E2,series,romance
+i93,Business Proposal S2E11,series,romance
+i94,Our Beloved Summer S1E14,series,romance
+i95,Attack on Titan S2E4,series,anime
+i96,Move to Heaven S2E19,series,drama
+i97,The Raid Part 3,movie,action
+i98,SpongeBob SquarePants S1E3,tv,kids
+i99,Gotham S3E18,series,thriller
+i100,Vincenzo S2E3,series,thriller
+i101,Frozen Part 2,movie,family
+i102,Business Proposal S3E17,series,romance
+i103,Ada Apa Dengan Cinta? Part 3,movie,romance
+i104,The Raid Part 4,movie,action
+i105,Descendants of the Sun S3E12,series,romance
+i106,John Wick Part 2,movie,action
+i107,The Bourne Ultimatum Part 2,movie,thriller
+i108,Jujutsu Kaisen S3E18,series,anime
+i109,Our Beloved Summer S1E4,series,romance
+i110,Extraordinary Attorney Woo S1E10,series,drama
+i111,Imperfect Part 4,movie,drama
+i112,Frozen Part 4,movie,family
+i113,La La Land Part 2,movie,romance
+i114,The Glory S3E2,series,thriller
+i115,Reply 1988 S3E1,series,family
+i116,Alice in Borderland S3E17,series,thriller
+i117,The Fault in Our Stars Part 4,movie,romance
+i118,The Dark Knight Part 2,movie,action
+i119,One Piece S2E1,series,anime
+i120,Seribu Detik Terakhir S1E8,microdrama,thriller
+i121,Keluarga Cemara S2E18,series,family
+i122,The Notebook Part 2,movie,romance
+i123,Diary Pacar Ghosting S1E16,microdrama,romance
+i124,Blue Lock S1E11,series,anime
+i125,Money Heist S1E2,series,thriller
+i126,Hotel Transylvania Part 4,movie,family
+i127,Extraordinary Attorney Woo S2E17,series,drama
+i128,It's Okay to Not Be Okay S2E14,series,drama
+i129,Alice in Borderland S1E12,series,thriller
+i130,Start-Up S3E1,series,drama
+i131,My Stupid Boss Part 4,movie,comedy
+i132,Avengers: Endgame Part 3,movie,action
+i133,Spy x Family S3E6,series,anime
+i134,Drama 5 Menit: Pulang S3E2,microdrama,drama
+i135,Dilan 1991 Part 2,movie,romance
+i136,Iron Man Part 3,movie,action
+i137,Chernobyl S3E10,series,thriller
+i138,The Bourne Ultimatum Part 4,movie,thriller
+i139,One Piece S3E18,series,anime
+i140,Extraordinary Attorney Woo S3E16,series,drama
+i141,Kisah Cinta di Kafe S2E1,microdrama,romance
+i142,The Dark Knight Part 4,movie,action
+i143,Reply 1988 S2E6,series,family
+i144,Moana Part 3,movie,family
+i145,The Dark Knight Part 3,movie,action
+i146,Mission Impossible Part 2,movie,action
+i147,Crash Landing on You S1E19,series,romance
+i148,Hometown Cha-Cha-Cha S1E5,series,romance
+i149,Iron Man Part 2,movie,action
+i150,Weird Roommate S1E2,microdrama,comedy
+i151,Hotel Transylvania Part 3,movie,family
+i152,Hometown Cha-Cha-Cha S2E8,series,romance
+i153,Seribu Detik Terakhir S1E4,microdrama,thriller
+i154,The Notebook Part 4,movie,romance
+i155,Hometown Cha-Cha-Cha S1E2,series,romance
+i156,Imperfect Part 2,movie,drama
+i157,Dragon Ball Super S1E4,series,anime
+i158,Koala Kumal Part 2,movie,romance
+i159,Koala Kumal Part 4,movie,romance
+i160,Seribu Detik Terakhir S3E8,microdrama,thriller
+i161,Jujutsu Kaisen S2E12,series,anime
+i162,Nussa S3E19,series,kids
+i163,Adit & Sopo Jarwo S3E2,tv,kids
+i164,My Hero Academia S2E18,series,anime
+i165,Dilan 1991 Part 3,movie,romance
+i166,Spy x Family S2E18,series,anime
+i167,Keluarga Cemara S1E16,series,family
+i168,The Notebook Part 3,movie,romance
+i169,Jujutsu Kaisen S2E14,series,anime
+i170,Diary Pacar Ghosting S3E3,microdrama,romance
+i171,Mission Impossible Part 3,movie,action
+i172,Ada Apa Dengan Cinta? Part 2,movie,romance
+i173,Dragon Ball Super S3E9,series,anime
+i174,Descendants of the Sun S2E9,series,romance
+i175,Reply 1988 S2E15,series,family
+i176,Money Heist S1E10,series,thriller
+i177,Doraemon S3E3,tv,kids
+i178,Laskar Pelangi Part 2,movie,drama
+i179,Di Atas Ojek Online S2E17,microdrama,comedy
+i180,Start-Up S2E18,series,drama
+i181,Finding Nemo Part 4,movie,family
+i182,Me Before You Part 2,movie,romance
+i183,Hospital Playlist S2E6,series,drama
+i184,It's Okay to Not Be Okay S2E7,series,drama
+i185,Adit & Sopo Jarwo S3E12,tv,kids
+i186,Chernobyl S3E12,series,thriller
+i187,Cek Toko Sebelah Part 4,movie,comedy
+i188,Frozen Part 3,movie,family
+i189,Money Heist S1E9,series,thriller
+i190,Tenet Part 3,movie,thriller
+i191,Friendzone Story S2E14,microdrama,romance
+i192,Reply 1988 S2E14,series,family
+i193,It's Okay to Not Be Okay S1E9,series,drama
+i194,Reply 1988 S3E8,series,family
+i195,Shinchan S3E7,tv,kids
+i196,Seribu Detik Terakhir S3E13,microdrama,thriller
+i197,Kontrakan Sebelah S1E17,microdrama,comedy
+i198,Kontrakan Sebelah S3E20,microdrama,comedy
+i199,Warkop DKI Reborn Part 4,movie,comedy
+i200,Extraordinary Attorney Woo S1E1,series,drama
+i201,Spy x Family S2E6,series,anime
+i202,Reply 1988 S1E5,series,family
+i203,It's Okay to Not Be Okay S2E16,series,drama
+i204,Perahu Kertas Part 2,movie,romance
+i205,The Fault in Our Stars Part 2,movie,romance
+i206,Diary Pacar Ghosting S3E15,microdrama,romance
+i207,Demon Slayer S2E3,series,anime
+i208,Friendzone Story S2E3,microdrama,romance
+i209,Hotel Transylvania Part 2,movie,family
+i210,Hospital Playlist S3E2,series,drama
+i211,Di Atas Ojek Online S1E1,microdrama,comedy
+i212,Move to Heaven S2E11,series,drama
+i213,Descendants of the Sun S3E4,series,romance
+i214,Friendzone Story S1E13,microdrama,romance
+i215,Hometown Cha-Cha-Cha S2E5,series,romance
+i216,Kontrakan Sebelah S2E18,microdrama,comedy
+i217,The Glory S2E2,series,thriller
+i218,Dragon Ball Super S3E10,series,anime
+i219,Crash Landing on You S1E13,series,romance
+i220,Dilan 1990 Part 3,movie,romance
+i221,Squid Game S2E18,series,thriller
+i222,Shinchan S3E9,tv,kids
+i223,Hospital Playlist S1E15,series,drama
+i224,Keluarga Cemara S3E10,series,family
+i225,Hospital Playlist S1E13,series,drama
+i226,Gotham S1E10,series,thriller
+i227,Money Heist S1E19,series,thriller
+i228,Perahu Kertas Part 3,movie,romance
+i229,Chernobyl S2E14,series,thriller
+i230,It's Okay to Not Be Okay S3E20,series,drama
+i231,Hospital Playlist S1E20,series,drama
+i232,Diary Pacar Ghosting S3E20,microdrama,romance
+i233,Avengers: Endgame Part 2,movie,action
+i234,Naruto Shippuden S1E5,series,anime
+i235,Kisah Cinta di Kafe S2E6,microdrama,romance
+i236,Stand Up Comedy Indonesia S1E5,tv,comedy
+i237,Shinchan S2E4,tv,kids
+i238,Attack on Titan S1E18,series,anime
+i239,SpongeBob SquarePants S2E1,tv,kids
+i240,Weird Roommate S1E14,microdrama,comedy
+i241,Captain America: Civil War Part 4,movie,action
+i242,Warkop DKI Reborn Part 3,movie,comedy
+i243,Upin & Ipin S1E12,tv,kids
+i244,Finding Nemo Part 2,movie,family
+i245,Squid Game S1E9,series,thriller
+i246,Cek Toko Sebelah Part 2,movie,comedy
+i247,Kontrakan Sebelah S3E16,microdrama,comedy
+i248,Seribu Detik Terakhir S1E18,microdrama,thriller
+i249,Koala Kumal Part 3,movie,romance
+i250,Toy Story Part 2,movie,family
+i251,Our Beloved Summer S2E4,series,romance
+i252,Move to Heaven S1E4,series,drama
+i253,Gotham S3E15,series,thriller
+i254,John Wick Part 3,movie,action
+i255,Upin & Ipin S1E1,tv,kids
+i256,Diary Pacar Ghosting S1E6,microdrama,romance
+i257,Kisah Cinta di Kafe S3E2,microdrama,romance
+i258,Avengers: Infinity War Part 2,movie,action
+i259,Captain America: Civil War Part 2,movie,action
+i260,Spy x Family S2E11,series,anime
